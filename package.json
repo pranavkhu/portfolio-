@@ -67,5 +67,9 @@
   "lint-staged": {
     "*.json": "prettier-package-json --write",
     "*.{js,css,md}": "prettier --write"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/ashutosh1919/masterPortfolio.git",
+  "author": "pranavkhu <pranavkhu@gmail.com>",
+  "license": "MIT"
 }
